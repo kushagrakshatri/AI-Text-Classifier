@@ -1,1 +1,1 @@
-# AI-Text-Classifier
+# AI Text Classifier
